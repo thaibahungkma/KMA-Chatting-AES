@@ -32,8 +32,8 @@ User can be send text, image mess. View online status, delete mess,...<br />
 ![mess](https://user-images.githubusercontent.com/94952035/148667479-b54a319a-eeb8-44f1-a123-9c745a8e3a64.png)
 <br />
 *Create Group<br />
-Just admin can be create group with avatar, title, description<br />
 ![creategroup](https://user-images.githubusercontent.com/94952035/148667475-4c6a6dca-bcac-4a2f-9f31-45eb7be9ed0b.png)<br />
+Just admin can be create group with avatar, title, description<br />
 *GroupList<br />
 Show list group which user was added<br />
 ![grouplist](https://user-images.githubusercontent.com/94952035/148667477-433546a6-8cb0-43e7-b899-6e20e0718bf8.png)<br />
@@ -44,9 +44,6 @@ Show/Send text, image text and other information<br />
 Funtion for admin and teacher<br />
 ![manager](https://user-images.githubusercontent.com/94952035/148667478-9d829c9f-9eca-4a02-b730-0416fd446e7d.png)<br />
 And some function other<br />
-People can be download this source code to refer<br />
-Below is some picture<br />
-
 People can be download this source to refer <br />
 THANKS FOR READING ^^
 
