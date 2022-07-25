@@ -38,10 +38,10 @@ Show list group which user was added<br />
 ![grouplist](https://user-images.githubusercontent.com/94952035/148667477-433546a6-8cb0-43e7-b899-6e20e0718bf8.png)<br />
 *GroupChat<br />
 Show/Send text, image text and other information<br />
-<img src="https://user-images.githubusercontent.com/94952035/148667476-91c8399b-94cf-4ec4-b46f-7dfc287d3f2b.png" width="300" />
+<img src="https://user-images.githubusercontent.com/94952035/148667476-91c8399b-94cf-4ec4-b46f-7dfc287d3f2b.png" width="300" /><br />
 *Group manager<br />
 Funtion for admin and teacher<br />
-<img src="https://user-images.githubusercontent.com/94952035/148667478-9d829c9f-9eca-4a02-b730-0416fd446e7d.png" width="300" />
+<img src="https://user-images.githubusercontent.com/94952035/148667478-9d829c9f-9eca-4a02-b730-0416fd446e7d.png" width="300" /><br />
 And some function other<br />
 People can be download this source to refer <br />
 THANKS FOR READING ^^
