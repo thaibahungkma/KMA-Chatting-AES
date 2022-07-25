@@ -6,13 +6,13 @@ Data of users will be send to Realtime Database<br />
 <br />
 *Login Screen<br />
 when have account, user can be login. I used Firebase Authentication for this<br />
-![dangnhap](https://user-images.githubusercontent.com/94952035/148667209-2d46c719-92c9-427b-9d4f-f6ae73bdf958.png)<br />
+![dangnhap](https://user-images.githubusercontent.com/94952035/148667209-2d46c719-92c9-427b-9d4f-f6ae73bdf958.png) width="250"<br />
 *Home Screen<br />
 When users login success, they will be moved to Home Screen. In here, users can be view, create new post.<br />
-![home](https://user-images.githubusercontent.com/94952035/148667264-e4919438-904c-4328-986f-d86e26b8c159.png)
+![home](https://user-images.githubusercontent.com/94952035/148667264-e4919438-904c-4328-986f-d86e26b8c159.png) width="250"
 <br />
 But just Admmin can be create new post<br />
-![create post](https://user-images.githubusercontent.com/94952035/148667397-3b8d4700-2057-4a13-b3c5-8cba5fa3aff1.png) <br />
+![create post](https://user-images.githubusercontent.com/94952035/148667397-3b8d4700-2057-4a13-b3c5-8cba5fa3aff1.png) width="250" <br />
 Without, users can be search post at search bar<br />
 *Comment<br />
 When users click on the post, the Comment Activity will be called<br />
