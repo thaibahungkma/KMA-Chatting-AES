@@ -6,22 +6,22 @@ Data of users will be send to Realtime Database<br />
 <br />
 *Login Screen<br />
 when have account, user can be login. I used Firebase Authentication for this<br />
-![dangnhap](https://user-images.githubusercontent.com/94952035/148667209-2d46c719-92c9-427b-9d4f-f6ae73bdf958.png) />
+![dangnhap](https://user-images.githubusercontent.com/94952035/148667209-2d46c719-92c9-427b-9d4f-f6ae73bdf958.png)
+<br />
 *Home Screen<br />
 When users login success, they will be moved to Home Screen. In here, users can be view, create new post.<br />
-![home](https://user-images.githubusercontent.com/94952035/148667264-e4919438-904c-4328-986f-d86e26b8c159.png)
+<img src="https://user-images.githubusercontent.com/94952035/148667264-e4919438-904c-4328-986f-d86e26b8c159.png" width="300" />
 <br />
-But just Admmin can be create new post<br />
+But just Admmin can be create new post <br />
 ![create post](https://user-images.githubusercontent.com/94952035/148667397-3b8d4700-2057-4a13-b3c5-8cba5fa3aff1.png) <br />
-<img src="https://user-images.githubusercontent.com/94952035/148667397-3b8d4700-2057-4a13-b3c5-8cba5fa3aff1.png" width="250" />
 Without, users can be search post at search bar<br />
 *Comment<br />
 When users click on the post, the Comment Activity will be called<br />
-![comment](https://user-images.githubusercontent.com/94952035/148667378-90e779bd-fdd3-42b1-8b67-d18a0d78b1d6.png)
+<img src="https://user-images.githubusercontent.com/94952035/148667378-90e779bd-fdd3-42b1-8b67-d18a0d78b1d6.png" width="300" />
 <br />
 *Profile<br />
 Show avatar, cover picture and information of account, and users can be edit this. This screen view their post in here<br />
-![profile](https://user-images.githubusercontent.com/94952035/148667409-fa565788-2eec-44a7-8737-5faccbeb803e.png)<br />
+<img src="https://user-images.githubusercontent.com/94952035/148667409-fa565788-2eec-44a7-8737-5faccbeb803e.png" width="300" /><br />
 *UserList<br />
 Show users in app with some information, people can be search with studen code. When click on item user, trans to private chat<br />
 ![userlist](https://user-images.githubusercontent.com/94952035/148667456-c51a01c8-9d48-4c34-9430-86099eb42171.png)
@@ -38,10 +38,10 @@ Show list group which user was added<br />
 ![grouplist](https://user-images.githubusercontent.com/94952035/148667477-433546a6-8cb0-43e7-b899-6e20e0718bf8.png)<br />
 *GroupChat<br />
 Show/Send text, image text and other information<br />
-![groupchat](https://user-images.githubusercontent.com/94952035/148667476-91c8399b-94cf-4ec4-b46f-7dfc287d3f2b.png)<br />
+<img src="https://user-images.githubusercontent.com/94952035/148667476-91c8399b-94cf-4ec4-b46f-7dfc287d3f2b.png" width="300" />
 *Group manager<br />
 Funtion for admin and teacher<br />
-![manager](https://user-images.githubusercontent.com/94952035/148667478-9d829c9f-9eca-4a02-b730-0416fd446e7d.png)<br />
+<img src="https://user-images.githubusercontent.com/94952035/148667478-9d829c9f-9eca-4a02-b730-0416fd446e7d.png" width="300" />
 And some function other<br />
 People can be download this source to refer <br />
 THANKS FOR READING ^^
